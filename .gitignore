@@ -1,3 +1,8 @@
 /vendor/
-composer.lock
+/cache/*
+/logs/*
+!cache/.gitkeep
+!logs/.gitkeep
+/composer.lock
+/composer.phar
 
